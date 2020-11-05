@@ -7,7 +7,6 @@ public class homework32 {
 
             if (i % 3 == 0) {
                 continue;
-
             }
             System.out.print(i + ",");
         }
